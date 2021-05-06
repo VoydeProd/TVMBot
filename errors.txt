@@ -1,0 +1,300 @@
+[CALLER: RequestHandler.js:170:25 | MS: 1620191688847 | DATE: 5/5/2021, 12:14:48 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'get',
+    path: '/guilds/834255568204988416/invites',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620191891703 | DATE: 5/5/2021, 12:18:11 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\desktop\corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'get',
+    path: '/guilds/834255568204988416/invites',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620192504936 | DATE: 5/5/2021, 12:28:24 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'get',
+    path: '/guilds/834255568204988416/invites',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620192615564 | DATE: 5/5/2021, 12:30:15 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'delete',
+    path: '/channels/834255568204988419/messages/839373387142004737/reactions/%F0%9F%97%82%EF%B8%8F/830218713578995732',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620192828652 | DATE: 5/5/2021, 12:33:48 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'delete',
+    path: '/channels/834255568204988419/messages/839374311549829120',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620192854328 | DATE: 5/5/2021, 12:34:14 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'delete',
+    path: '/channels/834255568204988419/messages/839374418986663977',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193049295 | DATE: 5/5/2021, 12:37:29 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'get',
+    path: '/guilds/834255568204988416/invites',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193049426 | DATE: 5/5/2021, 12:37:29 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193079312 | DATE: 5/5/2021, 12:37:59 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193109326 | DATE: 5/5/2021, 12:38:29 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193139323 | DATE: 5/5/2021, 12:38:59 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193169314 | DATE: 5/5/2021, 12:39:29 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193199329 | DATE: 5/5/2021, 12:39:59 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193229327 | DATE: 5/5/2021, 12:40:29 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193259325 | DATE: 5/5/2021, 12:40:59 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193289321 | DATE: 5/5/2021, 12:41:29 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193319317 | DATE: 5/5/2021, 12:41:59 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193349315 | DATE: 5/5/2021, 12:42:29 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193379323 | DATE: 5/5/2021, 12:42:59 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
+[CALLER: RequestHandler.js:170:25 | MS: 1620193409324 | DATE: 5/5/2021, 12:43:29 AM]
+------------------------------------
+DiscordAPIError: Missing Permissions
+EXTRA INFO:
+Promise {
+  <rejected> DiscordAPIError: Missing Permissions
+      at RequestHandler.execute (C:\Users\jaces\Desktop\Corebot\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+      at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+    method: 'post',
+    path: '/guilds/834255568204988416/channels',
+    code: 50013,
+    httpStatus: 403
+  }
+}
+------------------------------------
